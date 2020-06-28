@@ -12,4 +12,5 @@ public class HelloWorld {
 //from local feature
 //burasi master
 //masterdan feature2ya
+//masterda degisiklik
 
